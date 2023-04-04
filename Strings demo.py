@@ -4,7 +4,7 @@ str3="ree"
 
 print(str1[1])
 print(str1[2:5]) #get sub strings
-print(str1+str2) #concatinate 2 strings
+print(str1+str2) #concatin ate 2 strings
 str4="  hello"
 
 print(str3 in str1)   #substring check--> checking whether str3 is present in the str1
